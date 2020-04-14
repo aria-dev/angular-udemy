@@ -1,0 +1,15 @@
+.nav-link.active {
+  background-color: #232323;
+  border-radius: 0%;
+}
+
+.nav-link {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+  color: #232323;
+}
+
+.navbar {
+  padding: 32px;
+  background-color: gainsboro;
+}

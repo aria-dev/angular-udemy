@@ -1,0 +1,6 @@
+<h3>{{feature_title}}</h3>
+<ul>
+  <li *ngFor="let featureditem of featureditems">
+    <app-feature-item [item_name]="featureditem"></app-feature-item>
+  </li>
+</ul>
